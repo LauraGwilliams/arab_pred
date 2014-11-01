@@ -1,0 +1,23 @@
+clean_stimuli.py CVCV
+print "--"
+
+clean_stimuli.py CVCVC
+print "--"
+
+clean_stimuli.py CVCVCV
+print "--"
+
+
+clean_stimuli.py C_C
+print "--"
+
+clean_stimuli.py C_C_C
+print "--"
+
+
+clean_stimuli.py V_V
+print "--"
+
+clean_stimuli.py V_V_V
+
+print "--"
